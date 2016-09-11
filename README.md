@@ -1,12 +1,11 @@
 # Getting-and-Cleaning-Data-Course-Project
 # Create one R script called run_analysis.R that does the following:
 # 1.Download and upzip the dataset
-# 2.Load the activity and feature information, training and test datasets
-# 3. Merge the datasets
-# 4. Convert the activity and subject column into factors
-# 5. Extracts only the measurements on the mean and standard deviation for 
+# 2.Extracts only the measurements on the mean and standard deviation for 
 #    each measurement.
-# 6. Creates a tidy dataset with clean column names
+# 3. Use descriptive activity names to name the activities in the data set
+# 4. Label the data set with descriptive variable names
+# 5. creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 #  The tidy dataset is names as Datatidy.txt
 
